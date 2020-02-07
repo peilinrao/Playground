@@ -1,0 +1,22 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "Where Peilin plays",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peilinrao/Playground.git"
+  },
+  "keywords": [
+    "play"
+  ],
+  "author": "Peilin Rao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peilinrao/Playground/issues"
+  },
+  "homepage": "https://github.com/peilinrao/Playground#readme"
+}
